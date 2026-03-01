@@ -1,0 +1,39 @@
+# Sensitive Data
+.env
+.env.local
+.env.*.local
+*.key
+*.pem
+credentials.json
+secrets.yaml
+*.vault
+
+# IDE / Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+Thumbs.db
+
+# Build / Dependencies
+node_modules/
+bin/
+obj/
+dist/
+build/
+*.log
+
+# OS Files
+.DS_Store
+Thumbs.db
+.vs/
+
+# Local Files
+*.local
+.tmp/
+temp/
+
+# Internal work vault (keep private, not in public repo)
+../storytelling-engine/
