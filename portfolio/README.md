@@ -1,61 +1,61 @@
-# [Your Name] — Portfolio
+# Infrastructure as a Platform
 
-Welcome. This portfolio showcases the work I'm proud of and the thinking behind it.
+Welcome. This portfolio documents my work in infrastructure engineering, cloud architecture, AI automation, and platform design.
 
-## Who I Am
+## What You'll Find Here
 
-[One paragraph: What you do, what you believe, what drives your engineering]
+Not just code — **reasoning about design**.
 
-**Key Pillars:**
-- Principle 1: [your principle]
-- Principle 2: [your principle]
-- Principle 3: [your principle]
-
----
-
-## Projects
-
-### Featured Work
-
-#### [Project Name]
-[One-line description]
-- **Why it matters:** [problem it solves]
-- **How it demonstrates:** [what skill]
-- **View:** [link to project folder]
-
-#### [Project Name]
-...
-
-See [all projects](projects-overview.md) for complete list.
+Each project explains:
+- **The Problem** — What challenge this solves
+- **The Approach** — Why I chose this design
+- **The Trade-offs** — What I considered, what I rejected
+- **The Implementation** — Code, architecture, diagrams
+- **The Insights** — What this demonstrates about my engineering thinking
 
 ---
 
-## What I Write About
+## My Engineering Philosophy
 
-- [Article/Pattern Name]: [link]
-- [Article/Pattern Name]: [link]
+**Infrastructure is strategic, not operational.**
+
+I build with these principles:
+- **IaC-First** — Infrastructure codified, versioned, auditable
+- **Cost-Aware** — Every design decision considers cost implications
+- **Hybrid Mindset** — Cloud + on-prem integration as first-class concern
+- **Platform Thinking** — Reusable components, not one-off solutions
+- **Security by Design** — Not bolted on, designed in
+- **Long-term Evolution** — Systems that can grow and change
 
 ---
 
-## Let's Connect
+## Featured Projects
 
-- LinkedIn: [link]
-- GitHub: [link]
-- Email: [email]
+See [all projects](projects-overview.md) for the complete list.
+
+Each project includes:
+- Overview and architecture
+- Design decisions and reasoning
+- Code and diagrams
+- Links to detailed documentation
 
 ---
 
 ## How This Portfolio Works
 
-This isn't just code on GitHub.
+**Each project documents both the work and the thinking.**
 
-Each project includes:
-- **Why I built it** — The problem and my approach
-- **How it works** — Architecture and design
-- **What I learned** — Reflections and iterations
-- **Design reasoning** — ADRs and architectural decisions
-- **My thinking** — Links to internal notes
-
-See [meta README](../README.md) for the structure of this portfolio.
+That means:
+- Architecture Decision Records (ADRs) explaining why
+- Design reasoning showing trade-off analysis
+- Diagrams visualizing the system
+- Code with context
+- Reflections on what was learned
 
 The goal: Show not just what I build, but *how* I think about building.
+
+---
+
+## Let's Connect
+
+[LinkedIn](#) • [GitHub](https://github.com) • [Email](#)

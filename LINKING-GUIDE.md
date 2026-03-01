@@ -1,6 +1,8 @@
-# Linking Internal Work to GitHub Portfolio
+# Portfolio Development Process
 
-How to move work from your **internal storytelling engine** to your **public GitHub portfolio**.
+*This document explains how projects move from concept to publication in this portfolio.*
+
+(Internal guide — not for public viewing)
 
 ---
 

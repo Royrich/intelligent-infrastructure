@@ -1,24 +1,33 @@
 # All Projects
 
-|Project | Description | Status | View |
-|--------|-----------|--------|------|
-|[Project Name]|One-liner|Active|`projects/project-name/`|
+Projects organized by domain and focus area.
+
+## Infrastructure as Code
+
+*Infrastructure design and deployment automation*
+
+- (Projects coming soon)
+
+## AI & Automation
+
+*Intelligent systems, agents, and workflow automation*
+
+- (Projects coming soon)
+
+## Platform Engineering
+
+*Reusable components and platform abstractions*
+
+- (Projects coming soon)
 
 ---
 
-## Projects by Domain
+## Learn More
 
-### Infrastructure as Code
-- [Project Name](../projects/project-name/)
+Each project includes:
+- What problem it solves
+- How the architecture works
+- Why specific design choices were made
+- Code and detailed documentation
 
-### AI & Automation
-- [Project Name](../projects/project-name/)
-
-### Architecture & Design
-- [Project Name](../projects/project-name/)
-
----
-
-## Detailed View
-
-Start with [featured projects](README.md) or browse all projects below.
+[Back to portfolio](README.md)

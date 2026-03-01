@@ -1,19 +1,9 @@
-# Public Templates
+# Project Documentation
 
-Templates to help you format projects and documentation for GitHub.
+This folder contains templates and examples for how projects are documented in this portfolio.
 
-## Available Templates
+## What's Included
 
-- `project-readme-template.md` — Start here for each project
-- More coming as patterns emerge
+- **project-readme-template.md** — Standard structure for project README files
 
----
-
-## How to Use
-
-1. Copy the template
-2. Adapt for your specific project
-3. Fill in the sections
-4. Save to your project folder
-
-The goal: Consistent, professional presentation across all your published work.
+Each project follows this format to ensure clear, consistent documentation of architecture, reasoning, and implementation.
